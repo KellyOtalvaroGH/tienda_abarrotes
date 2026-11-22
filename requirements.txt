@@ -1,0 +1,6 @@
+sqlalchemy
+psycopg[binary]
+python-dotenv
+fastapi[standard]
+streamlit
+requests
